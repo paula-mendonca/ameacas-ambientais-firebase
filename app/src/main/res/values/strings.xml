@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AmeacasAmbientaisFirebase</string>
+    <string name="ameacas">Ameaças</string>
+    <string name="endereco">Endereço</string>
+    <string name="data">Data</string>
+    <string name="descricao">Descrição</string>
+    <string name="add">ADicionar</string>
+    <string name="edit">atualizar</string>
+    <string name="add_ameaca">NOVA AMEAÇA</string>
+    <string name="take_photo">TIRAR FOTO</string>
+</resources>
